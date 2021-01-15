@@ -2,7 +2,7 @@
 
 **Anno accademico 2020-2021** 
 
-**Docente:** Prof. Ambra Demontis
+**Docente:** Dott.ssa Ambra Demontis
 
 **Corso di laurea in Ingegneria Elettrica, Elettronica e Informatica**
 
