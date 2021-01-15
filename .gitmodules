@@ -1,0 +1,4 @@
+[submodule "lpo"]
+	path = lpo
+	url = https://github.com/unica-lpo/lpo
+	branch = master
